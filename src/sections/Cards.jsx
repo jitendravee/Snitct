@@ -35,7 +35,7 @@ const Cards = () => {
                         className="rounded-lg"
                     />
                     <span className="flex justify-center text-2xl font-[poppins] font-semibold">Jordan Edition</span>
-                    <span className="flex justify-center text-xl py-3 bg-[#E1E5F2] font-semibold ">Rs 7,000</span>
+                    <span className="flex justify-center lg:text-xl text-sm  py-3 bg-[#E1E5F2] font-semibold ">Rs 7,000</span>
                 </div>
                 <div className="">
                     <img
@@ -96,7 +96,7 @@ Latest fashion and Trending designs.
                         className="rounded-lg"
                     />
                     <span className="flex justify-center text-2xl font-[poppins] font-semibold ">Special Edition</span>
-                    <span className="flex justify-center text-xl py-3 bg-[#E1E5F2] border bottom-6 font-semibold">Rs 10,000</span>
+                    <span className="flex justify-center text-sm sm:text-xl py-3 bg-[#E1E5F2] border bottom-6 font-semibold">Rs 10,000</span>
                 </div>
 
 

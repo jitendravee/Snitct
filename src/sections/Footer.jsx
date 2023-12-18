@@ -1,4 +1,5 @@
 import React from 'react'
+import { FaHeart } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -12,8 +13,9 @@ const Footer = () => {
     </ul>
 
 </div>
-<div className="flex justify-center items-center text-lg bg-[#33415c] text-white">
+<div className="flex justify-center items-center text-lg bg-[#33415c] text-white gap-3">
 Copyright reserved Made with love
+<FaHeart />
 </div>
 
     </div>
